@@ -1,9 +1,6 @@
-trace interbeing
+diamond sutra, as refracted through markov text
 ===
 
-```
-<call trans opt. received...>
-<tracing>
-```
+https://aiur-adept.github.io/diamond-sutra-markov
 
-an interactive way to explore the book ['The Trace of Interbeing'](https://tinyurl.com/the-trace-of-interbeing) (written by this user)
+an interactive way to explore the Diamond Sutra
